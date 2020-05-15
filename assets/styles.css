@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+#dice-role{
+    color: blue;
+}
+body{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fsix-dice-isolated-white-22433468.jpg&f=1&nofb=1);
+}
+p{
+    font-weight: bold;
+    font-size: 25px;
+    color: darkmagenta;
+}
+#number-of-rolls{
+    font-weight: bold;
+    font-size: 18px;
+    color: crimson;
+}
+#dice{
+    color: #FF0800;
+}
+#dice-number{
+    color: darkmagenta;
+}
