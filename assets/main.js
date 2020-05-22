@@ -4,6 +4,10 @@ let totalRolls = document.querySelector("#number-of-rolls")
 let totalOutcome = document.querySelector("#sum-of-rolls")
 let diceNumber = document.querySelector("#dice")
 let DisplayRolls = document.querySelector("#dice-number")
+let resets = document.querySelector("#reset-button")
+let resetDice = 0
+let resetTotal = "The Sum Of All Rolls"
+let resetDisplays = 0 
 let index = 0
 let diceindex = 0
 
@@ -26,6 +30,6 @@ totalRolls.addEventListener('click', function(){
     DisplayRolls.appendChild(cup)
         diceindex += 1
     }
- //lookup documnet.create element and element.appendchild
+ 
 })
 console.log(diceindex)

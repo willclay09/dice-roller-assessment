@@ -21,5 +21,7 @@ p{
     color: #FF0800;
 }
 #dice-number{
-    color: darkmagenta;
+    font-size: 18px;
+    color: rgb(255, 217, 0);
+    font-weight: bolder;
 }
